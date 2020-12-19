@@ -1,0 +1,6 @@
+In week three I learned about data visualization in python using matplotlib and seaborn                                                                                                                                                                                                                          
+Day 1 - Pengenalan Matplotlib                                                                                                                                                      
+Day 2 - Custom Visualisasi                                                                                                                                                         
+Day 3 - Multiple Plots                                                                                                                                                              
+Day 4 - Perbandingan Kuantitatif                                                                                                                                                   
+Day 5 - Seaborn Introduction                                                                                                                                                       
