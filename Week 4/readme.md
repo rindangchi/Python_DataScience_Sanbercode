@@ -1,0 +1,6 @@
+In the last week the discussion was focused on machine learning                                                                                                                         
+Day 1 - Introduction to Machine Learning                                                                                                                                                
+Day 2 - KNN Algortithm and Linear Regression Model                                                                                                                                      
+Day 3 - Performance Evaluation and Model Selection                                                                                                                                      
+Day 4 - Preprocessing Data                                                                                                                                                              
+Day 5 - Final Project                                                                                                                                                                                                                                                                                                                                  
